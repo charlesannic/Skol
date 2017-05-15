@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/background"
+        android:layout_width="56dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorSecondItem" >
+
+        <View
+            android:id="@+id/circular_reveal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@android:color/transparent"
+            android:paddingTop="24dp" >
+
+            <LinearLayout
+                android:id="@+id/real_bar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/item_ideas"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="3"
+                    android:clickable="true"
+                    android:tag="0"
+                    android:theme="@style/BN_Theme">
+
+                    <ImageView
+                        android:id="@+id/ic_ideas"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:alpha="0.54"
+                        android:background="@null"
+                        android:rotation="180"
+                        android:src="@drawable/ic_wb_incandescent_white_24dp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/item_homework"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="4"
+                    android:clickable="true"
+                    android:tag="1"
+                    android:theme="@style/BN_Theme">
+
+                    <ImageView
+                        android:id="@+id/ic_homework"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:background="@null"
+                        android:src="@drawable/ic_bookmark_white_24dp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/item_courses"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="3"
+                    android:clickable="true"
+                    android:tag="2"
+                    android:theme="@style/BN_Theme">
+
+                    <ImageView
+                        android:id="@+id/ic_courses"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:alpha="0.54"
+                        android:background="@null"
+                        android:src="@drawable/ic_event_note_white_24dp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/item_grades"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="3"
+                    android:clickable="true"
+                    android:tag="3"
+                    android:theme="@style/BN_Theme">
+
+                    <ImageView
+                        android:id="@+id/ic_grades"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:alpha="0.54"
+                        android:background="@null"
+                        android:src="@drawable/ic_insert_chart_white_24dp" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <Space
+                android:id="@+id/space"
+                android:layout_width="match_parent"
+                android:layout_height="48dp" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/bb_bottom_bar_shadow"
+        android:layout_width="6dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/bn_top_shadow_land"/>
+
+</LinearLayout>

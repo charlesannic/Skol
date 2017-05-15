@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors_drawable">
+        <item>@drawable/circle_1_valencia</item>
+        <item>@drawable/circle_2_cinnabar</item>
+        <item>@drawable/circle_3_burnt_orange</item>
+        <item>@drawable/circle_4_buttercup</item>
+        <item>@drawable/circle_5_supernova</item>
+        <item>@drawable/circle_6_mountain_meodow</item>
+        <item>@drawable/circle_7_jungle_green</item>
+        <item>@drawable/circle_8_curious_blue</item>
+        <item>@drawable/circle_9_mariner</item>
+        <item>@drawable/circle_10_blumine</item>
+        <item>@drawable/circle_11_biloba_flower</item>
+        <item>@drawable/circle_12_studio</item>
+        <item>@drawable/circle_13_carissma</item>
+        <item>@drawable/circle_14_copper_rust</item>
+        <item>@drawable/circle_15_roman_coffee</item>
+        <item>@drawable/circle_16_lynch</item>
+        <item>@drawable/circle_17_pickled_bluewood</item>
+    </array>
+</resources>

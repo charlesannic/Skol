@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F1F1F</color>
+    <color name="colorAccent">#F79256</color>
+    <color name="colorAccent2">#00BFA5</color>
+
+    <color name="textSelection">#4285F4</color>
+    <color name="dayLetterSelection">#E2E2E2</color>
+    <color name="error">#DB4437</color>
+
+    <color name="colorFirstItem">#E2B13C</color>
+    <color name="colorSecondItem">#16A085</color>
+    <color name="colorThirdItem">#4B77BE</color>
+    <color name="colorFourthItem">#6C7A89</color>
+
+    <color name="colorInitialSearchList">#0000</color>
+    <color name="colorFinalSearchList">#A000</color>
+
+
+    <color name="valencia">#DA4453</color>
+    <color name="cinnabar">#E74C3C</color>
+    <color name="burnt_orange">#D35400</color>
+    <color name="buttercup">#F39C12</color>
+    <color name="supernova">#FFC901</color>
+    <color name="mountain_meadow">#16A085</color>
+    <color name="jungle_green">#27AE60</color>
+    <color name="curious_blue">#3498DB</color>
+    <color name="mariner">#2980B9</color>
+    <color name="blumine">#1D4E89</color>
+    <color name="biloba_flower">#AC92EC</color>
+    <color name="studio">#8E44AD</color>
+    <color name="carissma">#EC87C0</color>
+    <color name="copper_rust">#955251</color>
+    <color name="roman_coffee">#795548</color>
+    <color name="lynch">#607D8B</color>
+    <color name="pickled_bluewood">#2C3E50</color>
+
+    <array name="colors">
+        <item>@color/valencia</item>
+        <item>@color/cinnabar</item>
+        <item>@color/burnt_orange</item>
+        <item>@color/buttercup</item>
+        <item>@color/supernova</item>
+        <item>@color/mountain_meadow</item>
+        <item>@color/jungle_green</item>
+        <item>@color/curious_blue</item>
+        <item>@color/mariner</item>
+        <item>@color/blumine</item>
+        <item>@color/biloba_flower</item>
+        <item>@color/studio</item>
+        <item>@color/carissma</item>
+        <item>@color/copper_rust</item>
+        <item>@color/roman_coffee</item>
+        <item>@color/lynch</item>
+        <item>@color/pickled_bluewood</item>
+    </array>
+</resources>

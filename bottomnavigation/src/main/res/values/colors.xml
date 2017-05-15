@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00AA6F</color>
+    <color name="colorPrimaryLight">#4400AA6F</color>
+    <color name="colorPrimaryDark">#008A5A</color>
+    <color name="colorAccent">#C6FF00</color>
+    <color name="highlightColor">#44C6FF00</color>
+
+    <color name="colorFirstItem">#E2B13C</color>
+    <color name="colorSecondItem">#009688</color>
+    <color name="colorThirdItem">#5D8CAE</color>
+    <color name="colorFourthItem">#875F9A</color>
+
+    <color name="bb_inActiveBottomBarItemColor">#747474</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bb_darkBackgroundColor">#212121</color>
+    <color name="bb_tabletRightBorderDark">#505050</color>
+</resources>

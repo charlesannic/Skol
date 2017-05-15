@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Skol</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Colors -->
+    <string name="valencia">Valencia</string>
+    <string name="cinnabar">Cinnabar</string>
+    <string name="burnt_orange">Burnt Orange</string>
+    <string name="buttercup">Buttercup</string>
+    <string name="supernova">Supernova</string>
+    <string name="mountain_meodow">Mountain Meodow</string>
+    <string name="jungle_green">Jungle Green</string>
+    <string name="curious_blue">Curious Blue</string>
+    <string name="mariner">Mariner</string>
+    <string name="blumine">Blumine</string>
+    <string name="biloba_flower">Biloba Flower</string>
+    <string name="studio">Studio</string>
+    <string name="carissma">Carissma</string>
+    <string name="copper_rust">Copper Rust</string>
+    <string name="roman_coffee">Roman Coffe</string>
+    <string name="lynch">Lynch</string>
+    <string name="pickled_bluewood">Pickled Bluewood</string>
+
+    <string-array name="colors_names">
+        <item>@string/valencia</item>
+        <item>@string/cinnabar</item>
+        <item>@string/burnt_orange</item>
+        <item>@string/buttercup</item>
+        <item>@string/supernova</item>
+        <item>@string/mountain_meodow</item>
+        <item>@string/jungle_green</item>
+        <item>@string/curious_blue</item>
+        <item>@string/mariner</item>
+        <item>@string/blumine</item>
+        <item>@string/biloba_flower</item>
+        <item>@string/studio</item>
+        <item>@string/carissma</item>
+        <item>@string/copper_rust</item>
+        <item>@string/roman_coffee</item>
+        <item>@string/lynch</item>
+        <item>@string/pickled_bluewood</item>
+    </string-array>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string-array name="days_of_week">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+        <item>@string/sunday</item>
+    </string-array>
+
+</resources>
